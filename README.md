@@ -6,7 +6,7 @@
 
 <br>
 
-<h3>No momento, estou cursando o 1º período de Ciência da Computação na CESAR School. Tenho 20 anos, e tenho um grande interesse pela área de Tecnologia.q</h3>
+<h3>No momento, estou cursando o 1º período de Ciência da Computação na CESAR School. Tenho 20 anos, e tenho um grande interesse pela área de Tecnologia.</h3>
 
 <br>
 
@@ -21,11 +21,11 @@ Essas daqui são algumas das tecnologias que utilizo no dia-a-dia e gosto de tra
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   </a>
 </p>
 
@@ -39,12 +39,11 @@ Essas daqui são algumas das tecnologias que utilizo no dia-a-dia e gosto de tra
 
 Projetos que realizei durante esse período:
 
+* 🎮 <a href="https://bryanmartins.itch.io/the-one-who-survived" target="_blank">Jogo Bitsy</a>
+* 🎲 <a href="https://sites.google.com/cesar.school/projeto1-grupo5/home" target="_blank">Projeto 1</a>
 * ⏳ **[Portfólio]** - *Em breve...*
-* ⏳ **[Portfólio]** - *Em breve...*
-* 
-
 
 ## 📲 Entre em contato:
 
-* 🟦 **LinkedIn:** <a href="https://www.linkedin.com/in/arthurmarenga/" target="_blank"></a>
-* 📧 **E-mail:** <a href="mailto:amp4@cesar.school"></a>
+* 🟦 **LinkedIn:** <a href="https://www.linkedin.com/in/arthurmarenga/" target="_blank">@arthurmarenga</a>
+* 📧 **E-mail:** <a href="mailto:amp4@cesar.school">amp4@cesar.school</a>

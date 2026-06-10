@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>👋 Ooi, me chamo Arthur Marenga</h1>
+  <h1>👋 Ooi, me chamo Arthur Marenga!</h1>
   
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuMTlxZnR0MWtqbGNhaWV4ZDJnNGlyNjI4cHNiNnpkNTBkNm43OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltCHY2Fk0mROyCf8kD/giphy.gif" alt="Developer Banner GIF" width="100%" max-width="800px" />
 </div>
@@ -30,6 +30,9 @@ Essas daqui são algumas das tecnologias que utilizo no dia-a-dia e gosto de tra
 </p>
 
 ### 📜 Certificações:
+
+Algumas das certificações que consegui durante esse período: 
+
 * **Cisco Networking Academy:** Fundamentos do Python 1
 * **Cisco Networking Academy:** JavaScript Essentials 1
 
@@ -37,7 +40,7 @@ Essas daqui são algumas das tecnologias que utilizo no dia-a-dia e gosto de tra
 
 ## 🗂️ Meus Projetos:
 
-Projetos que realizei durante esse período:
+Alguns dos projetos que realizei em equipe durante esse período:
 
 * 🎮 <a href="https://bryanmartins.itch.io/the-one-who-survived" target="_blank">Jogo Bitsy</a>
 * 🎲 <a href="https://sites.google.com/cesar.school/projeto1-grupo5/home" target="_blank">Projeto 1</a>

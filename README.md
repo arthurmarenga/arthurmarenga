@@ -6,7 +6,7 @@
 
 <br>
 
-<h3>Ooi! Me Chamo Arthur Marenga, tenho 20 anos e sou de Recife-PE. Atualmente estou cursando o 1º período de Ciência da Computação na CESAR School. Tenho 20 anos, e tenho um grande interesse pela área de Tecnologia.</h3>
+<h3>Sou Arthur Marenga, tenho 20 anos e sou de Recife-PE. Atualmente estou cursando o 1º período de Ciência da Computação na CESAR School. Tenho 20 anos, e tenho um grande interesse pela área de Tecnologia.</h3>
 
 <br>
 

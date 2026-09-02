@@ -6,7 +6,7 @@
 
 <br>
 
-<h3>Atualmente estou cursando o 1º período de Ciência da Computação na CESAR School. Tenho um grande interesse pela área de Tecnologia.</h3>
+<h3>Atualmente estou cursando o 2º período de Ciência da Computação na CESAR School.</h3>
 
 <br>
 

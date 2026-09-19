@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>👋 Ooi, me chamo Arthur Marenga!</h1>
+  <h1>👋 Diz, me chamo Arthur Marenga!</h1>
   
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuMTlxZnR0MWtqbGNhaWV4ZDJnNGlyNjI4cHNiNnpkNTBkNm43OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltCHY2Fk0mROyCf8kD/giphy.gif" alt="Developer Banner GIF" width="100%" max-width="800px" />
 </div>
@@ -15,6 +15,9 @@
 Essas daqui são algumas das tecnologias que utilizo no dia-a-dia e gosto de trabalhar:
 
 <p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   </a>

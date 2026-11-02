@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>👋 Diz, me chamo Arthur Marenga!</h1>
+  <h1>👋 E aí?! Me chamo Arthur Marenga!</h1>
   
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBuMTlxZnR0MWtqbGNhaWV4ZDJnNGlyNjI4cHNiNnpkNTBkNm43OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltCHY2Fk0mROyCf8kD/giphy.gif" alt="Developer Banner GIF" width="100%" max-width="800px" />
 </div>
